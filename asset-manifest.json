@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/sparks-crud/static/css/main.78a33243.css",
+    "main.js": "/sparks-crud/static/js/main.16924d12.js",
+    "static/js/787.52b677e6.chunk.js": "/sparks-crud/static/js/787.52b677e6.chunk.js",
+    "static/media/galaxy.gif": "/sparks-crud/static/media/galaxy.4686ab6c8adfffc2cf02.gif",
+    "index.html": "/sparks-crud/index.html",
+    "main.78a33243.css.map": "/sparks-crud/static/css/main.78a33243.css.map",
+    "main.16924d12.js.map": "/sparks-crud/static/js/main.16924d12.js.map",
+    "787.52b677e6.chunk.js.map": "/sparks-crud/static/js/787.52b677e6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.78a33243.css",
+    "static/js/main.16924d12.js"
+  ]
+}
